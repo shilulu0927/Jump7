@@ -7,3 +7,4 @@ for a in range(0,101):
         continue
     else:
         print(a)
+##jump7.py
